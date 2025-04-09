@@ -1,0 +1,12 @@
+{
+    "python.formatting.provider": "autopep8",
+    "editor.formatOnSave": true,
+    "python.formatting.autopep8Args": [
+        "--max-line-length",
+        "120"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "workbench.colorTheme": "Dracula Theme"
+}
